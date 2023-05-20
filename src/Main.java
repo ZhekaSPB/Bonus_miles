@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int x = 12_850;
-        int y = 20;
-        int b = x / y;
-        System.out.println("Итоговый бонус: " + b);
+        int summa = 12_850;
+        int coefficient = 20;
+        int bonus = summa / coefficienty;
+        System.out.println("Итоговый бонус: " + bonus);
 
 
 
